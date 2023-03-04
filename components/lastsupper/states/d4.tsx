@@ -1,17 +1,7 @@
 const state = {
-  d1: false,
-  d2: false,
-  d3: false,
   d4: true,
-  d5: false,
-  d6: false,
-  jesus: false,
-  d7: false,
-  d8: false,
-  d9: false,
-  d10: false,
-  d11: false,
-  d12: false,
+  s4: true,
+  c4: true,
 };
 
 export default state;

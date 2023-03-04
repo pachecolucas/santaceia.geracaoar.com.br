@@ -1,3 +1,4 @@
+import initial from "./initial";
 import d1 from "./d1";
 import d2 from "./d2";
 import d3 from "./d3";
@@ -15,6 +16,7 @@ import arrowRed from "./arrow-red";
 import arrowBlue from "./arrow-blue";
 
 const STATES: any[] = [
+  initial,
   d1,
   d2,
   d3,
