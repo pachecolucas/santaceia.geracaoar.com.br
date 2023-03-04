@@ -11,6 +11,8 @@ import d10 from "./d10";
 import d11 from "./d11";
 import d12 from "./d12";
 import jesus from "./jesus";
+import arrowRed from "./arrow-red";
+import arrowBlue from "./arrow-blue";
 
 const STATES: any[] = [
   d1,
@@ -26,6 +28,8 @@ const STATES: any[] = [
   d10,
   d11,
   d12,
+  arrowBlue,
+  arrowRed,
 ];
 
 export default STATES;

@@ -34,6 +34,11 @@ export default function Index({ index }: Props) {
       {state.d10 && <Figure src="/assets/d10.png" alt="" />}
       {state.d11 && <Figure src="/assets/d11.png" alt="" />}
       {state.d12 && <Figure src="/assets/d12.png" alt="" />}
+
+      {state.arrowBlue && <Figure src="/assets/arrow-blue.png" alt="" />}
+      {state.arrowRed && <Figure src="/assets/arrow-red.png" alt="" />}
+      {state.signs && <Figure src="/assets/signs.png" alt="" />}
+      {state.stars && <Figure src="/assets/stars.png" alt="" />}
       <Background src="/assets/bg.jpg" alt="" />
     </Wrapper>
   );
