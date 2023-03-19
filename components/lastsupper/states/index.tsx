@@ -14,6 +14,18 @@ import d12 from "./d12";
 import jesus from "./jesus";
 import arrowRed from "./arrow-red";
 import arrowBlue from "./arrow-blue";
+import c1 from "./c1";
+import c2 from "./c2";
+import c3 from "./c3";
+import c4 from "./c4";
+import c5 from "./c5";
+import c6 from "./c6";
+import c7 from "./c7";
+import c8 from "./c8";
+import c9 from "./c9";
+import c10 from "./c10";
+import c11 from "./c11";
+import c12 from "./c12";
 
 const STATES: any[] = [
   initial,
@@ -30,6 +42,20 @@ const STATES: any[] = [
   d10,
   d11,
   d12,
+
+  c1,
+  c2,
+  c3,
+  c4,
+  c5,
+  c6,
+  c7,
+  c8,
+  c9,
+  c10,
+  c11,
+  c12,
+
   arrowBlue,
   arrowRed,
 ];

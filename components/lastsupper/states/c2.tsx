@@ -1,6 +1,6 @@
 const state = {
-  d10: true,
-  s10: true,
+  d11: true,
+  c2: true,
 };
 
 export default state;
