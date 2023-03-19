@@ -14,6 +14,7 @@ const state = {
   d12: true,
   arrowBlue: true,
   signs: true,
+  bb: true,
 };
 
 export default state;

@@ -61,6 +61,9 @@ export default function Index({ index }: Props) {
       {state.c11 && <Figure src="/assets/c11.png" alt="" />}
       {state.c12 && <Figure src="/assets/c12.png" alt="" />}
 
+      {state.br && <Figure src="/assets/red-brain.png" alt="" />}
+      {state.bb && <Figure src="/assets/blue-brain.png" alt="" />}
+
       {state.arrowBlue && <Figure src="/assets/arrow-blue.png" alt="" />}
       {state.arrowRed && <Figure src="/assets/arrow-red.png" alt="" />}
       {state.signs && <Figure src="/assets/signs.png" alt="" />}
