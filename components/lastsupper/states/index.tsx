@@ -1,4 +1,5 @@
 import initial from "./initial";
+import diciples from "./diciples";
 import d1 from "./d1";
 import d2 from "./d2";
 import d3 from "./d3";
@@ -29,6 +30,7 @@ import c12 from "./c12";
 
 const STATES: any[] = [
   initial,
+  diciples,
   d1,
   d2,
   d3,

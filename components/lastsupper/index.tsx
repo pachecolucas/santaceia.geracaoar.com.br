@@ -24,9 +24,9 @@ export default function Index({ index }: Props) {
       {state.d1 && <Figure src="/assets/d1.png" alt="" />}
       {state.d2 && <Figure src="/assets/d2.png" alt="" />}
       {state.d3 && <Figure src="/assets/d3.png" alt="" />}
-      {state.d4 && <Figure src="/assets/d4.png" alt="" />}
       {state.d5 && <Figure src="/assets/d5.png" alt="" />}
       {state.d6 && <Figure src="/assets/d6.png" alt="" />}
+      {state.d4 && <Figure src="/assets/d4.png" alt="" />}
       {state.jesus && <Figure src="/assets/jesus.png" alt="" />}
       {state.d7 && <Figure src="/assets/d7.png" alt="" />}
       {state.d8 && <Figure src="/assets/d8.png" alt="" />}
